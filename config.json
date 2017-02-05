@@ -1,6 +1,6 @@
 {
 	"log": true,
-	"port": 3000,
+	"port": 8000,
 	"url": "/",
 	"ssl": {
 		"use": false,
